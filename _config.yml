@@ -35,5 +35,5 @@ menu_external:
 mathjax: false
 markdown: kramdown
 encoding: utf-8
-baseurl: hmt2014.github.io
+baseurl: hmt2014.github.io/homepage
 locale: en_GB
