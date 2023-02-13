@@ -2,7 +2,7 @@ name: Mengting Hu
 description: Mengting Hu's personal page
 menu:
  - page: About
-   url: /homepage/about
+   url: /homepage/index
  - page: Papers
    url: /homepage/papers
  - page: Curriculum Vitae
