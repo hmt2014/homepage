@@ -5,7 +5,6 @@ date: 2016-04-13
 layout: default
 ---
 
-## Papers
 1. **Mengting Hu**, Shiwan Zhao, Honglei Guo, Zhong Su. "Hybrid Regularizations for Multi-Aspect Category Sentiment Analysis". IEEE Transactions on Affective Computing (TAC), 2023. (CCF-B, Impact factor=13.99)
 2. **Mengting Hu**, Hang Gao, Yike Wu, Shiwan zhao. "Fine-Grained Domain Adaptation for Aspect Category Level Sentiment Analysis". IEEE Transactions on Affective Computing (TAC), 2022. (CCF-B, Impact factor=13.99)
 3. **Mengting Hu**, Yike Wu, Hang Gao, Yinhao Bai, Shiwan Zhao. "Improving Aspect Sentiment Quad Prediction via Template-Order Data Augmentation". EMNLP 2022. (CCF-B)
