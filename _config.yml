@@ -2,16 +2,16 @@ name: Mengting Hu
 description: Mengting Hu's personal page
 menu:
  - page: About
-   url: /about
+   url: /homepage/about
  - page: Papers
-   url: /papers
+   url: /homepage/papers
    links:
     - title: Working papers
       url: "#working-papers"
     - title: Published papers
       url: "#published-papers"
  - page: Curriculum Vitae
-   url: /cv
+   url: /homepage/cv
    links:
     - title: Experience
       url: "#experience"
@@ -22,7 +22,7 @@ menu:
     - title: Miscellaneous
       url: "#miscellaneous"
  - page: Teaching
-   url: /teaching
+   url: /homepage/teaching
 menu_external:
  - title: OleVik.me
    url: "http://olevik.me/"
@@ -35,5 +35,5 @@ menu_external:
 mathjax: false
 markdown: kramdown
 encoding: utf-8
-baseurl: hmt2014.github.io/homepage
+baseurl: hmt2014.github.io
 locale: en_GB
