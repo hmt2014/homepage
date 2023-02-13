@@ -21,6 +21,7 @@ education:
   - years: 2011.9-2015.6
     name: Bachelor's Degree in Software Engineering
     location: Tongji University
-
+misc: Citizen of China, fluent in Chinese and English speech, read and write both excellently.
+date: 2023-02-10
 layout: cv
 ---
