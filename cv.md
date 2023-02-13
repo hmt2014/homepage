@@ -4,7 +4,11 @@ summary: "Mengting Hu's Resume"
 cv_title: Mengting Hu
 cv_subtitle: Assistant professor
 location: Tianjin, China
-
+phone: 
+contact_name: OleVik.net/Contact
+contact_link: http://olevik.net/contact
+linkedin_name: LinkedIn/OleHHVik
+linkedin_link: https://no.linkedin.com/in/olehhvik
 experience:
   - years: 2021.7-
     name: Assistant professor
