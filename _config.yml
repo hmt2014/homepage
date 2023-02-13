@@ -1,5 +1,5 @@
-name: Researcher
-description: Personal website
+name: Mengting Hu
+description: Mengting Hu's personal page
 menu:
  - page: About
    url: /about
@@ -10,17 +10,6 @@ menu:
       url: "#working-papers"
     - title: Published papers
       url: "#published-papers"
- - page: Research Projects
-   url: /research
-   links:
-    - title: "Project One"
-      url: "#project-one"
-    - title: "Project Two"
-      url: "#project-two"
-    - title: "Project Three"
-      url: "#project-three"
-    - title: "Project Four"
-      url: "#project-four"
  - page: Curriculum Vitae
    url: /cv
    links:
@@ -34,10 +23,6 @@ menu:
       url: "#miscellaneous"
  - page: Teaching
    url: /teaching
- - page: Media
-   url: /media
- - page: Accolades
-   url: /accolades
 menu_external:
  - title: OleVik.me
    url: "http://olevik.me/"
