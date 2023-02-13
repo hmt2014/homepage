@@ -22,6 +22,5 @@ education:
   - years: 2011.9-2015.6
     name: Bachelor's Degree in Software Engineering
     location: Tongji University
-
 layout: cv
 ---
