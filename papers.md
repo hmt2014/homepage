@@ -5,8 +5,8 @@ date: 2016-04-13
 layout: default
 ---
 
-1. **Mengting Hu**, Shiwan Zhao, Honglei Guo, Zhong Su. "Hybrid Regularizations for Multi-Aspect Category Sentiment Analysis". `IEEE Transactions on Affective Computing (TAC)`, 2023. (CCF-B, Impact factor=13.99)
-2. **Mengting Hu**, Hang Gao, Yike Wu, Shiwan zhao. "Fine-Grained Domain Adaptation for Aspect Category Level Sentiment Analysis". `IEEE Transactions on Affective Computing (TAC)`, 2022. (CCF-B, Impact factor=13.99)
+1. **Mengting Hu**, Shiwan Zhao, Honglei Guo, Zhong Su. "Hybrid Regularizations for Multi-Aspect Category Sentiment Analysis". `IEEE Transactions on Affective Computing`, 2023. (CCF-B, Impact factor=13.99)
+2. **Mengting Hu**, Hang Gao, Yike Wu, Shiwan zhao. "Fine-Grained Domain Adaptation for Aspect Category Level Sentiment Analysis". `IEEE Transactions on Affective Computing`, 2022. (CCF-B, Impact factor=13.99)
 3. **Mengting Hu**, Yike Wu, Hang Gao, Yinhao Bai, Shiwan Zhao. "Improving Aspect Sentiment Quad Prediction via Template-Order Data Augmentation". `EMNLP` 2022. (CCF-B)
 4. **Mengting Hu**, Hang Gao, Yinhao Bai, Mingming Liu. “Classical Sequence Match is a Competitive Few-Shot One-Class Learner”. `COLING` 2022. (CCF-B)
 5. Chao Xue, **Mengting Hu**, Xueqi Huang, Chunguang Li. “Automated Search Space and Search Strategy Selection for Neural AutoML”. `Pattern Recognition` (PR), April 2022. (SCI, CCF-B)
