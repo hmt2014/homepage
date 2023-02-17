@@ -19,11 +19,36 @@ Mengting Hu received the Ph.D. degree in Nankai University in 2021. The Ph.D. de
 
 **<sup>*</sup>** indicates the corresponding author.
 
+## CV
+
+---
+experience:
+  - years: 2021.7-
+    name: Assistant professor
+    location: College of Software, Nankai University, Tianjin, China
+  - years: 2018.7-2021.1
+    name: Research intern
+    location: NLP group, IBM research, China.
+education:
+  - years: 2018.9-2021.6
+    name: Doctor’s Degree in Computer Science
+    location: Nankai University
+  - years: 2015.9-2018.6
+    name: Master’s Degree in Software Engineering
+    location: Nankai University
+  - years: 2011.9-2015.6
+    name: Bachelor's Degree in Software Engineering
+    location: Tongji University
+misc: Citizen of China, fluent in Chinese and English speech, read and write both excellently.
+date: 2023-02-10
+layout: cv
+---
+
 ## Teaching
 
-#### Undergraduate course
+###### Undergraduate course
 1. Linear algebra
 2. Probability theory and mathematical statistics
 
-#### Graduate course
+###### Graduate course
 1. Natural language processing
