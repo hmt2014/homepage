@@ -2,13 +2,18 @@ name: Mengting Hu
 description: Mengting Hu's personal page
 menu:
  - page: About
-   url: "#about"
+   url: /homepage
  - page: Papers
-   url: "#papers"
+   url: /homepage/papers
  - page: Curriculum Vitae
-   url: "#cv"
+   url: /homepage/cv
+   links:
+    - title: Experience
+      url: "#experience"
+    - title: Education
+      url: "#education"
  - page: Teaching
-   url: "#teaching"
+   url: /homepage/teaching
 mathjax: false
 markdown: kramdown
 encoding: utf-8
