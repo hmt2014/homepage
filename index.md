@@ -19,7 +19,7 @@ Mengting Hu received the Ph.D. degree in Nankai University in 2021. The Ph.D. de
 
 **<sup>*</sup>** indicates the corresponding author.
 
-## CV
+## Curriculum Vitae
 
 ---
 experience:

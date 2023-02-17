@@ -6,7 +6,7 @@ menu:
  - page: Papers
    url: "#papers"
  - page: Curriculum Vitae
-   url: "#cv"
+   url: "#curriculum-vitae"
  - page: Teaching
    url: "#teaching"
 mathjax: false
