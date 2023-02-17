@@ -93,7 +93,6 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Style and structure the menu */
 .sidebar.col-md-3 {
-	position: fixed;
 	padding: 2em 1em;
 	font-size: 1.2em;
 	background: white;
