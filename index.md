@@ -6,15 +6,15 @@ Mengting Hu received the Ph.D. degree in Nankai University in 2021. The Ph.D. de
 
 1. Zhixin Han, **Mengting Hu<sup>*</sup>**, Yinhao Bai, Xunzhi Wang, Bitong Luo. "DEQA: Descriptions Enhanced Question-Answering Framework for Multimodal Aspect-Based Sentiment Analysis". `AAAI`, 2025. (CCF-A)
 2. Yinhao Bai, Yuhua Zhao, Zhixin Han, Hang Gao, Chao Xue, **Mengting Hu<sup>*</sup>**. "Towards Robust Information Extraction via Binomial Distribution Guided Counterpart Sequence". `KDD`, 2024. (CCF-A)
-3. Cheng Gong, Haoshuai Zheng, Mengting Hu, Zheng Lin, Deng-Ping Fan, Yuzhi Zhang, Tao Li. "Minimize Quantization Output Error with Bias Compensation". `CAAI Artificial Intelligence Research`, 2024.
+3. Cheng Gong, Haoshuai Zheng, **Mengting Hu**, Zheng Lin, Deng-Ping Fan, Yuzhi Zhang, Tao Li. "Minimize Quantization Output Error with Bias Compensation". `CAAI Artificial Intelligence Research`, 2024.
 4. Yinhao Bai, Zhixin Han, Yuhua Zhao, Hang Gao, Zhuowei Zhang, Xunzhi Wang, **Mengting Hu<sup>*</sup>**. "Is Compound Aspect-Based Sentiment Analysis Addressed by LLMs?". `Findings of EMNLP`, 2024.
 5. Rui Ying, **Mengting Hu<sup>*</sup>**, Jianfeng Wu, Yalan Xie, Xiaoyi Liu, Zhunheng Wang, Ming Jiang, Hang Gao, Linlin Zhang, Renhong Cheng. "Simple but Effective Compound Geometric Operations for Temporal Knowledge Graph Completion". `ACL`, 2024. (CCF-A)
-6. Zhuang Chen, Jincenzi Wu, Jinfeng Zhou, Bosi Wen, Guanqun Bi, Gongyao Jiang, Yaru Cao, Mengting Hu, Yunghwei Lai, Zexuan Xiong, Minlie Huang. "Tombench: Benchmarking theory of mind in large language models". `ACL`, 2024. (CCF-A)
+6. Zhuang Chen, Jincenzi Wu, Jinfeng Zhou, Bosi Wen, Guanqun Bi, Gongyao Jiang, Yaru Cao, **Mengting Hu**, Yunghwei Lai, Zexuan Xiong, Minlie Huang. "Tombench: Benchmarking theory of mind in large language models". `ACL`, 2024. (CCF-A)
 7. Zhunheng Wang, Xiaoyi Liu, **Mengting Hu<sup>*</sup>**, Rui Ying, Ming Jiang, Jianfeng Wu, Yalan Xie, Hang Gao, Renhong Cheng. "ECoK: Emotional Commonsense Knowledge Graph for Mining Emotional Gold". `Findings of ACL`, 2024.
-8. Xun Liang, Hanyu Wang, Shichao Song, Mengting Hu, Xunzhi Wang, Zhiyu Li, Feiyu Xiong, Bo Tang. "Controlled text generation for large language model with dynamic attribute graphs". `Findings of ACL`, 2024. 
+8. Xun Liang, Hanyu Wang, Shichao Song, **Mengting Hu**, Xunzhi Wang, Zhiyu Li, Feiyu Xiong, Bo Tang. "Controlled text generation for large language model with dynamic attribute graphs". `Findings of ACL`, 2024. 
 9. Yinhao Bai, Yalan Xie, Xiaoyi Liu, Yuhua Zhao, Zhixin Han, **Mengting Hu<sup>*</sup>**, Hang Gao, Renhong Cheng. "BvSP: Broad-View Soft Prompting for Few-Shot Aspect Sentiment Quad Prediction". `ACL`, 2024. (CCF-A)
-10. Hang Gao, Mengting Hu, Yi Liu. "Learning Diver-Irrelevant Features for Generalizable Driver Behavior Recognition". `IEEE Transactions on Intelligent Transportation Systems (TITS)`, 2024. (CCF-B)
-11. Yongliang Lin, Zhen Zhang, Mengting Hu, Yufei Sun, Yuzhi Zhang. "Modalities Should Be Appropriately Leveraged: Uncertainty Guidance for Multimodal Chinese Spelling Correction". `LREC-COLING`, 2024. (CCF-B)
+10. Hang Gao, **Mengting Hu**, Yi Liu. "Learning Diver-Irrelevant Features for Generalizable Driver Behavior Recognition". `IEEE Transactions on Intelligent Transportation Systems (TITS)`, 2024. (CCF-B)
+11. Yongliang Lin, Zhen Zhang, **Mengting Hu**, Yufei Sun, Yuzhi Zhang. "Modalities Should Be Appropriately Leveraged: Uncertainty Guidance for Multimodal Chinese Spelling Correction". `LREC-COLING`, 2024. (CCF-B)
 12. Yike Wu, Yang Xiao, **Mengting Hu<sup>*</sup>**, Mengying Liu, Pengcheng Wang, Mingming Liu. "Towards Robust Evidence-Aware Fake News Detection via Improving Semantic Perception". `LREC-COLING`, 2024. (CCF-B)
 13. Zhuowei Zhang, **Mengting Hu<sup>*</sup>**, Yinhao Bai, Zhen Zhang. "Coreference Graph Guidance for Mind-Map Generation". `AAAI`, 2024. (CCF-A)
 14. Zhen Zhang, Yuhua Zhao, Hang Gao, **Mengting Hu<sup>*</sup>**. "LinkNER: Linking Local Named Entity Recognition Models to Large Language Models using Uncertainty". `WWW`, 2024. (CCF-A)
